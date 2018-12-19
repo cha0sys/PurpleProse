@@ -2,6 +2,7 @@ Purple Prose
 ============
 
 **Initial Release 0.01a**
+
 **Requirements:** Python3.7, PyQT5, PyPandoc
 
 A world-building metadata management app geared specifically towards fiction authoring.
